@@ -1,1 +1,1 @@
-有关raft协议做的一个小demo
+基于raft 设计一个支持三种RPC调用的强一致kv service
